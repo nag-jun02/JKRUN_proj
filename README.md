@@ -1,6 +1,9 @@
 ■操作方法
 左右移動:A、D、Right Arrow、Left Arrow
 
+■プレイ動画
+https://drive.google.com/file/d/1QsPPwuODquhRgpSh-JAwIvwr-fVcAc_w/view?usp=sharing
+
 ■テーマ
 女の子が走る3Dランゲーム
 
